@@ -1,10 +1,9 @@
-* {
-	color:#77ccee
+* { color:#77ccee
 	font-family: Avenir-Light, Tahoma
-	}
+}
 body {
-	color:#77ccee;
-	background:black;
+	color:#fff;
+	background:#333;
 	font-family:Avenir-Light, Tahoma;
 	width:960px;
 	margin:auto;

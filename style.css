@@ -1,7 +1,7 @@
 
 body {
 	color:#fff;
-	background:#333;
+	background:black;
 	font-family:Avenir-Light, Tahoma;
 	width:960px;
 	margin:auto;
@@ -16,9 +16,6 @@ header, main, footer {
 
 header, main h1 {
 	color:#77ccee;
-	
-h1 {
-	color:#77ccee
 }
 
 }

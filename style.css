@@ -18,6 +18,11 @@ header, main, footer {
 
 header, main h1 {
 	color:#77ccee;
+	
+h1 {
+	color:#77ccee
+}
+
 }
 
 a, a:visited {

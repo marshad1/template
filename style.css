@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+	font-family:"Adobe Garamond Pro Bold", Avenir-Light, "Times New Roman", Times, serif;
 	font-size: 13px;
 	color: #061C37;
 	background: #014D5D url(background.png);
@@ -29,12 +29,12 @@ position:relative;
 margin-top:30px;
 font-size:16px;
 margin-left:-10px;
-width:121px;
-height: 35px;
+width:105px;
+height:85px;
 line-height: 35px;
 float:left;
 color:#CEEAEE;
-font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+font-family:"Adobe Garamond Pro Bold", Avenir-Light, "Times New Roman", Times, serif;
 }
 
 
@@ -50,8 +50,8 @@ text-align:center;
 border-bottom:none;
 color:#0C61C9;
 display: block;
-width:121px;
-height: 35px;
+width:95px;
+height:85px;
 line-height: 35px;
 background-image:url(tab.png);
 
@@ -74,10 +74,10 @@ background-color:#FFFFFF;
 #mainPicture .picture
 {
 position:relative;
-width:650px;
+width:675px;
 height:325px;
 top:10px;
-background-image:url(anoceanofsky.jpg);
+background-image:url(MSU.jpg);
 background-repeat:no-repeat;
 margin-left:10px;
 }
@@ -89,7 +89,7 @@ top:30px;
 left:40px;
 font-size:25px;
 color:#FFFFFF;
-font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+font-family:"Adobe Garamond Pro Bold", Avenir-Light, "Times New Roman", Times, serif;
 }
 
 #headerSubtext
@@ -99,7 +99,7 @@ top:30px;
 left:50px;
 font-size:14px;
 color:#A9C8FA;
-font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+font-family:"Adobe Garamond Pro Bold", Avenir-Light, "Times New Roman", Times, serif;
 }
 
 .contentBox

@@ -162,3 +162,27 @@ html, body {
 text-align: center;
 }
 p {text-align: left;}
+	
+/*#video:visited{
+    text-decoration:none;
+    color:#000000;
+    }
+    
+#video:hover{
+    text-decoration:none;
+    color:#77ccee;
+    }*/
+    
+.video a
+{
+text-decoration:none;
+color:#000000;
+}
+
+.video a:hover
+{
+text-decoration:none;
+color:#77ccee;
+}
+
+    
